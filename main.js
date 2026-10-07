@@ -1,5 +1,6 @@
 var computerScore = 0;
 var humanScore = 0;
+// test committers
 
 function getComputerChoice() {
   let choice = Math.floor(Math.random() * 3);
